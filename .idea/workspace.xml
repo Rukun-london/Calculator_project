@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad14a969-1664-40db-a4a0-6c45c5541aa3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Calculator_project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/evaluator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tokenizer.py" afterDir="false" />
+    <list default="true" id="ad14a969-1664-40db-a4a0-6c45c5541aa3" name="Changes" comment="initial commit for my calculator project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +19,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Rukun-london/Calculator_project.git",
+    "accountId": "162ad0f9-0c54-4a71-b540-dc8eb26023b6"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -179,6 +175,19 @@
       <option name="presentableId" value="Default" />
       <updated>1771117248079</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit for my calculator project">
+      <option name="closed" value="true" />
+      <created>1774273902508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774273902508</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit for my calculator project" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit for my calculator project" />
   </component>
 </project>
