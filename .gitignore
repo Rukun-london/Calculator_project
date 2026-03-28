@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 .idea/
 __pycache__/
+=======
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+>>>>>>> cc404299205c5706ad0e63678f508c790fde398c
